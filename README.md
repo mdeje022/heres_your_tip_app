@@ -19,8 +19,6 @@ Here's a walkthrough of ithe mplemented app:
 
 <img src='https://imgur.com/JtXy4gC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Creating this app was an easy and fun way to get introduced to the IOS workflow and Swift programming language. 
