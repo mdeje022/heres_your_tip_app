@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of ithe mplemented app:
 
-<img src='https://imgur.com/JtXy4gC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/JtXy4gC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
