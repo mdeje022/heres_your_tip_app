@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tipping App*
 
-**Here's your tip** is a tip calculator application for iOS.
+**Tipping App* is a tip calculator application for iOS.
 
 Submitted by: **Miguel De Jesus**
 
